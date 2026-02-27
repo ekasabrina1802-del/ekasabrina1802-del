@@ -2,11 +2,18 @@
 
 ###
 
-<p align="left">🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞🌞</p>
+<div align="left">
+  <a href="https://www.linkedin.com/in/eka-sabrina/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/ekasabrina1802" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
+  </a>
+</div>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with :</h2>
 
 ###
 
@@ -45,26 +52,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ekasabrina1802-del/ekasabrina1802-del/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ekasabrina1802-del/ekasabrina1802-del/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ekasabrina1802-del/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ekasabrina1802-del/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ekasabrina1802-del/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ekasabrina1802-del/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ekasabrina1802-del/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@ekasabrina1802-del/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekasabrina1802-del&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekasabrina1802-del&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
