@@ -1,29 +1,25 @@
 # Hi, I'm Eka Sabrina! 👋
 
-🌱 Informatics Student | Educational Technology | Software Development | Cybersecurity Enthusiast
+🌐 IT Student | Networking Enthusiast | Software Development | Cybersecurity Enthusiast
 
-I'm an Informatics student majoring in **Pendidikan Teknologi Informasi**.  
-I'm interested in **software development, educational technology, and cybersecurity**.  
-Currently learning and building projects to improve my skills in technology and digital learning systems.
-
+I'm an Informatics student majoring in **Pendidikan Teknologi Informasi**, focusing on **computer networking and cybersecurity**.
 
 
 ## 🚀 Current Focus
 
 - 📚 Developing educational technology projects
-- 💻 Learning software development fundamentals
+- 🌐 Network configuration and troubleshooting 
 - 🔐 Exploring cybersecurity concepts
-- 🧠 Building small projects and academic systems
+- 🐧 Exploring Linux systems and networking environments 
 
 
 
 ## 🛠️ My Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
 ## 📫 Connect with Me
