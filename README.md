@@ -31,4 +31,8 @@ I'm an Informatics student majoring in **Pendidikan Teknologi Informasi**, focus
 
 ---
 
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekasabrina1802-del&layout=donut&bg_color=transparent)
+
 ⭐ *Learning step by step to build technology that supports digital education.*
