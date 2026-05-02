@@ -31,8 +31,6 @@ I'm an Informatics student majoring in **Pendidikan Teknologi Informasi**, focus
 
 ---
 
-## 📊 Most Used Languages
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ekasabrina1802-del&layout=compact&theme=transparent&hide_border=true"/>
 
 ---
