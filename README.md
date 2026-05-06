@@ -1,8 +1,8 @@
 # Hi, I'm Eka Sabrina! 👋
 
-🌐 IT Student | Networking Enthusiast | Software Development | Cybersecurity Enthusiast
+🌐 IT Student | Networking Enthusiast | Software Development
 
-I'm an Informatics student majoring in **Pendidikan Teknologi Informasi**, focusing on **computer networking and cybersecurity**.
+I'm an Informatics student majoring in **Pendidikan Teknologi Informasi**, focusing on **computer networking**.
 
 
 ## 🚀 Current Focus
