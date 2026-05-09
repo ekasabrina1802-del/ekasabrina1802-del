@@ -10,7 +10,7 @@ I'm an Informatics student majoring in **Pendidikan Teknologi Informasi**, focus
 - 📚 Developing educational technology projects
 - 🌐 Network configuration and troubleshooting 
 - 🔐 Exploring cybersecurity concepts
-- 🐧 Exploring Linux systems and networking environments 
+- 🐧 Exploring systems and networking environments 
 
 
 
