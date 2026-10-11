@@ -1,4 +1,4 @@
-# Hi, I'm Eka Sabrina! 👋
+# Hi, I'm Sabrina! 👋
 
 🌐 IT Student | Networking Enthusiast | Software Development
 
